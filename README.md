@@ -50,11 +50,11 @@ And the result of the build is an archive with the following contents:
 | /bundle/build/linux/libmylib64.so |   64-bit linux shared library   |
 
 #### Mac Deliverables
-| File                                 | Description            |
-| -------------------------------------|:----------------------:|
-| /bundle/build/mac/example            |   Mac application      |
-| /bundle/build/mac/libmylib.a         |   Mac static library   |
-| /bundle/build/linux/libmylib.dynlib  |   Mac shared library   |
+| File                               | Description            |
+| -----------------------------------|:----------------------:|
+| /bundle/build/mac/example          |   Mac application      |
+| /bundle/build/mac/libmylib.a       |   Mac static library   |
+| /bundle/build/mac/libmylib.dynlib  |   Mac shared library   |
 
 #### Windows Deliverables
 | File                             | Description                     |
